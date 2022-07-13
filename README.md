@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamlucia
 - 👀 I’m interested in Data Engineering topics (Distributed Systems, Batch and Real-Time Data Pipelines, Algorithm and Data Structures)
-- 🌱 I’m currently learning How to build reliable data plaftorms at scale!
+- 🌱 I’m currently learning how to build reliable data plaftorms at scale!
 - 💞️ I’m looking to collaborate on anything around data or software that process it
 - 📫 You can reach me on
   <span>
